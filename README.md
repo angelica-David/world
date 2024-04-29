@@ -10,16 +10,18 @@
 
 ```
 
-Delete the following folders from node_modules:
+In case you start getting provider errors or high or low fee mismatch do the three following steps:
+
+1 - Delete the following folders from node_modules:
 ```
    ..\helloworld\node_modules\scrypt-ts
 ```
-Copy the custom folders from the repo:
+2 - Copy the custom folders from the repo:
 
 ```
    ..\helloworld\scrypt-ts
 ```
-And paste them inside folder node_modules:
+3 - And paste them inside folder node_modules:
 
 
 ```
