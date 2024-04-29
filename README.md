@@ -10,6 +10,23 @@
 
 ```
 
+Delete the following folders from node_modules:
+```
+   ..\helloworld\node_modules\scrypt-ts
+```
+Copy the custom folders from the repo:
+
+```
+   ..\helloworld\scrypt-ts
+```
+And paste them inside folder node_modules:
+
+
+```
+   ..\helloworld\node_modules
+```
+
+
 ## Run
 
 ```
