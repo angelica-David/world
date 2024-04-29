@@ -10,7 +10,7 @@
 
 ```
 
-In case you start getting provider errors or high or low fee mismatch do the three following steps:
+### In case you start getting provider errors or high or low fee mismatch do the three following steps:
 
 1 - Delete the following folders from node_modules:
 ```
