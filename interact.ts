@@ -21,7 +21,7 @@ import { toByteString, sha256, utxoFromOutput, bsv, SensibleProvider,
 
     let tx = new bsv.Transaction
     //Put here the TXID of current contract
-    tx = await provDf.getTransaction('1049fc741d91f7611bb5039bd27aee88ed2e2bf5ffa52794d752434d01100e3e')
+    tx = await provDf.getTransaction('bb2b03b71231549dd86e00213dc73b254e66001861a2c779e85a8d846738c1c1')
 
     console.log('Test TX3: ', tx.id)
 
